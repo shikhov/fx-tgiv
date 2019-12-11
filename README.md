@@ -1,2 +1,2 @@
-# fx-tgiv
-Instant View extension for Firefox
+# Instant View extension
+https://addons.mozilla.org/en-US/firefox/addon/instant-view/
